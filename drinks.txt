@@ -1,4 +1,7 @@
-water
 gin & tonics
 cosmopolitans
 mojitos
+Water
+Lemonade
+Tea
+Coffee
